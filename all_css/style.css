@@ -1,0 +1,29 @@
+p{
+    background-color: black;
+    color: white;
+    line-height: 1.5;
+}
+.contact_bg{
+    background-color: blue;
+}
+h1{
+    color: red;
+}
+form{
+    background-color: lightblue;
+    align-items: center;
+    border: 1px solid yellowgreen;
+    padding: 15px;
+}
+input{
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+button{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    text-align: center;
+}
